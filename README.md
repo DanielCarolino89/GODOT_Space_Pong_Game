@@ -2,7 +2,7 @@
 
 Curso <b>Aprenda Godot (Curso Gratuito)
 <br>
-Canal <b>NextIndie Studio<\b> <a>https://www.youtube.com/@Nextindiestudio
+Canal <b>NextIndie Studio <a>https://www.youtube.com/@Nextindiestudio
 <br>
 Link do curso <a>https://www.youtube.com/watch?v=dS4REmrkERg&list=PLXiMbAkZF_BlKDfPoIOwFmmzC4dHX1eQt
 <br>
